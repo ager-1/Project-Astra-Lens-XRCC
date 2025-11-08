@@ -255,7 +255,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buttonText: {fileID: 1360611885}
   normalColor: {r: 1, g: 1, b: 1, a: 1}
-  highlightColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  highlightColor: {r: 0.78004265, g: 0.97735846, b: 0.9701148, a: 1}
 --- !u!1 &524691910
 GameObject:
   m_ObjectHideFlags: 0
