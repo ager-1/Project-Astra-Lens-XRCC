@@ -3,7 +3,17 @@ guid: 50755c2bceac948d8af7ba944a57fa30
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Saturn Ring
+    second: {fileID: 2100000, guid: 8372f16a66f4e49fd8679461ee10b333, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Saturn Texture
+    second: {fileID: 2100000, guid: a02278610e3f44f5f8b8f99b2d49ed10, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
