@@ -2147,7 +2147,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: cef0743acaf3d4776a986d0fec1e9f9b, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6fb28ab23aa5b734eb4f2c65bea5d3ad, type: 2}
+      objectReference: {fileID: 2100000, guid: f8b1924401d2a44c0aa1d59f6214ad28, type: 2}
     - target: {fileID: 919132149155446097, guid: cef0743acaf3d4776a986d0fec1e9f9b, type: 3}
       propertyPath: m_Name
       value: Earth (1)
