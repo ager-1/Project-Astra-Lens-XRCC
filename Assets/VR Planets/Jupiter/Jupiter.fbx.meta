@@ -3,7 +3,12 @@ guid: 2dd2e745b09c04bdfbb3302e1a523805
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jupiter Texture
+    second: {fileID: 2100000, guid: 38c51a0ad2b584330a3a9fe4336acb49, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

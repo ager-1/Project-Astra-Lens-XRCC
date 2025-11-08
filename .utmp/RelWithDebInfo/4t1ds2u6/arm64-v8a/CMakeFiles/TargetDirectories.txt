@@ -1,0 +1,5 @@
+D:/Github Projects/Project-Astra-Lens-XRCC/.utmp/RelWithDebInfo/4t1ds2u6/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Github Projects/Project-Astra-Lens-XRCC/.utmp/RelWithDebInfo/4t1ds2u6/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Github Projects/Project-Astra-Lens-XRCC/.utmp/RelWithDebInfo/4t1ds2u6/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Github Projects/Project-Astra-Lens-XRCC/.utmp/RelWithDebInfo/4t1ds2u6/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Github Projects/Project-Astra-Lens-XRCC/.utmp/RelWithDebInfo/4t1ds2u6/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
