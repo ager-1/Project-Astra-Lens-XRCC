@@ -3,7 +3,12 @@ guid: e649567f7e7814d95bd80c2dd19bc100
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mercury Texture
+    second: {fileID: 2100000, guid: 69f84a52b6d8346bc8bf38860b12505e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
