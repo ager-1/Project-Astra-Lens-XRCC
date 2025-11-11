@@ -3,7 +3,12 @@ guid: c496e43421f494246b5a9e6b0caced89
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Uranus Texture
+    second: {fileID: 2100000, guid: 51cf12514f5cc429aa7cbab59e59a2a2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
