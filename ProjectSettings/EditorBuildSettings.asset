@@ -8,15 +8,19 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/StartExperience_1.unity
     guid: 9f5733b8510ecd34eba202dde7d3643d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MR_Planets.unity
     guid: f905528a6d4e1fd4d8704544890f725a
   - enabled: 0
     path: Assets/Scenes/Saturn_Scene.unity
     guid: 3ebb6fb1bda5f4db48c2530095acc987
+  - enabled: 1
+    path: Assets/Scenes/Menu1.unity
+    guid: b51b709f5763a564c97aa720e0e8ed34
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 89582e3d799258b4e9dd1ee4f58d7321, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 46ccb02bd0c5b464781c3f43d1b1a92f, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6d8d7a17c097e13448aed9055d0d76b6, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: caf19f6b04c3719448008288e4282390, type: 2}
   m_UseUCBPForAssetBundles: 0
