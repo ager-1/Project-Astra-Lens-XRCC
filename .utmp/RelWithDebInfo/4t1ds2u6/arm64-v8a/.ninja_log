@@ -1,19 +1,19 @@
 # ninja log v5
-47	5443	7845737340618941	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	30b2c0f02fe85ab6
-62	5409	7845737340218292	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	90ac615556297e1e
-34	5772	7845737343984827	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6e8e2e0984c8db15
-103	5626	7845737342597474	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	263887b059d30906
-23	5568	7845737341938616	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	366e6d9a1f0cad89
-131	6413	7845737350552149	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9547bd9e0a852cec
-79	6170	7845737348085023	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	721d6d1176383d2a
-12	6313	7845737349525542	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	517f06b82ad527cd
-6414	6809	7845737354400824	D:/Github Projects/Project-Astra-Lens-XRCC/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4t1ds2u6/obj/arm64-v8a/libgame.so	605ab33170f973fc
 52	7634	7847479395101540	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	30b2c0f02fe85ab6
-26	7735	7847479396207927	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	366e6d9a1f0cad89
 149	7802	7847479396946838	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	90ac615556297e1e
 165	7913	7847479398041832	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	263887b059d30906
 76	8050	7847479399398853	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6e8e2e0984c8db15
 193	8401	7847479402969808	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9547bd9e0a852cec
+26	7735	7847479396207927	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	366e6d9a1f0cad89
 130	8490	7847479403796364	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	721d6d1176383d2a
 107	8774	7847479406588689	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	517f06b82ad527cd
 8775	9070	7847479409733459	D:/Github Projects/Project-Astra-Lens-XRCC/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4t1ds2u6/obj/arm64-v8a/libgame.so	605ab33170f973fc
+45	5811	7847509490006452	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	366e6d9a1f0cad89
+31	5855	7847509490472612	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	30b2c0f02fe85ab6
+90	5883	7847509490842848	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	90ac615556297e1e
+74	5974	7847509491731746	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	263887b059d30906
+16	6083	7847509492815650	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6e8e2e0984c8db15
+125	6248	7847509494511291	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9547bd9e0a852cec
+109	6613	7847509498184645	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	721d6d1176383d2a
+59	6729	7847509499243274	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	517f06b82ad527cd
+6730	6885	7847509500972128	D:/Github Projects/Project-Astra-Lens-XRCC/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4t1ds2u6/obj/arm64-v8a/libgame.so	605ab33170f973fc
