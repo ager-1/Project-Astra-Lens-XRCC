@@ -406,16 +406,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f77015d076826940aef8778f36bfd1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  starPrefab: {fileID: 36120937996659704, guid: cf89eda338e083a4b8a115437af684f5, type: 3}
   planetPrefab: {fileID: 5744634545371283042, guid: 69c58b12b83a49e4ca1a2aabcaec754a, type: 3}
   systemParent: {fileID: 1727230547}
-  matGasHot: {fileID: 2100000, guid: f4f9e91f279cab140a4aab2e7bb47538, type: 2}
-  matGasCold: {fileID: 2100000, guid: 0b022977bdcecfe44a39bb8055554b93, type: 2}
-  matRockyLava: {fileID: 2100000, guid: 4f3f312cba4c96c4a86560654cb25d1c, type: 2}
-  matRockyHabitable: {fileID: 2100000, guid: c7db401fcbcb1f14c9f124129a4abe56, type: 2}
-  matRockyIce: {fileID: 2100000, guid: cf0c62c7251c512439881d3201488ca9, type: 2}
+  mat_Trappist_b: {fileID: 2100000, guid: 0b022977bdcecfe44a39bb8055554b93, type: 2}
+  mat_Trappist_c: {fileID: 2100000, guid: f4f9e91f279cab140a4aab2e7bb47538, type: 2}
+  mat_Trappist_d: {fileID: 2100000, guid: c7db401fcbcb1f14c9f124129a4abe56, type: 2}
+  mat_Trappist_e: {fileID: 2100000, guid: cf0c62c7251c512439881d3201488ca9, type: 2}
+  mat_Trappist_f: {fileID: 2100000, guid: 4f3f312cba4c96c4a86560654cb25d1c, type: 2}
+  mat_Trappist_g: {fileID: 2100000, guid: e8be7a610e38dbf40bc71651157e1e8f, type: 2}
+  mat_Trappist_h: {fileID: 2100000, guid: 8cbd0f6af728d5c4c844d713958b2114, type: 2}
   gasGiantThreshold: 0.35
   overallSystemScale: 10
-  planetSpacing: 5
+  orbitalSpacing: 10
   radiusScale: 25
 --- !u!4 &889265334
 Transform:
