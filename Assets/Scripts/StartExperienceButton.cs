@@ -3,9 +3,9 @@ using UnityEngine.SceneManagement;
 
 public class StartExperienceButton : MonoBehaviour
 {
-    public void LoadMRPlanets()
+    public void LoadMenu()
     {
         // 2. This line loads the scene by its exact name
-        SceneManager.LoadScene("MR_Planets");
+        SceneManager.LoadScene("Menu1");
     }
 }

@@ -271,7 +271,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 317235279}
         m_TargetAssemblyTypeName: StartExperienceButton, Assembly-CSharp
-        m_MethodName: LoadMRPlanets
+        m_MethodName: LoadMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
