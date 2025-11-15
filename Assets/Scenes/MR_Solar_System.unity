@@ -1070,6 +1070,10 @@ PrefabInstance:
       propertyPath: m_StartingInteractionOverridesMap.Array.size
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3195221588357147835, guid: e0899ded21190134ab2a38b5f0774865, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 34.8
+      objectReference: {fileID: 0}
     - target: {fileID: 5859756817366617206, guid: e0899ded21190134ab2a38b5f0774865, type: 3}
       propertyPath: m_InteractorSource
       value: 
@@ -1129,6 +1133,14 @@ PrefabInstance:
     - target: {fileID: 8551267032714359025, guid: e0899ded21190134ab2a38b5f0774865, type: 3}
       propertyPath: m_CullingMask.m_Bits
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 8992337040296559603, guid: e0899ded21190134ab2a38b5f0774865, type: 3}
+      propertyPath: m_text
+      value: View
+      objectReference: {fileID: 0}
+    - target: {fileID: 8992337040296559603, guid: e0899ded21190134ab2a38b5f0774865, type: 3}
+      propertyPath: m_margin.z
+      value: 136.65181
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
