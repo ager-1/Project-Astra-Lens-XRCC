@@ -9,6 +9,6 @@ public class MenuSceneLoading : MonoBehaviour
     }
     public void LoadTrappistSystem()
     {
-        SceneManager.LoadScene("MR_Trappist_System");
+        SceneManager.LoadScene("PCG_Exoplanet");
     }
 }

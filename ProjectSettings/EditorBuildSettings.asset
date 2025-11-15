@@ -15,8 +15,8 @@ EditorBuildSettings:
     path: Assets/Scenes/MR_Solar_System.unity
     guid: f905528a6d4e1fd4d8704544890f725a
   - enabled: 1
-    path: Assets/Scenes/MR_Trappist_System.unity
-    guid: b92a3804c80ee394e93077747b70ef2a
+    path: Assets/Scenes/PCG_Exoplanet.unity
+    guid: eb634941e2151fb41a773d487cc04018
   - enabled: 1
     path: Assets/Scenes/Mercury_Scene.unity
     guid: b02ea6b0027a646ba86b9b539d65076b
